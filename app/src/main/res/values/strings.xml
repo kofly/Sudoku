@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sudoku</string>
+    <string name="settings">Settings</string>
+    <string name="music_title">Music</string>
+    <string name="hints_title">Hints</string>
+    <string name="music_summary">Play bcakground music</string>
+    <string name="hints_summary">Show hints during play</string>
+</resources>
